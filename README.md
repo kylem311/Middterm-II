@@ -24,3 +24,6 @@ Grace days remaining: < 2 >/5
 
 ## MISCELLANEOUS COMMENTS:
  < none >
+ 
+## Commit 1
+Most of my code was as optimized as I knew how except there were a few improvements I waned to make to the function that i made like deleting a line of code that i didnt need and turning my hard code of the axis into a for loop with a list that is less repetative and easeir to fix.
